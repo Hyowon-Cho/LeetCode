@@ -1,7 +1,6 @@
 """
 27. Remove Element
 Easy
-
 """
 
 class Solution:
